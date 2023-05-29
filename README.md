@@ -5,7 +5,7 @@
 https://github.com/WongKinYiu/yolov7
 
 ## step2
-下載資料籍
+下載資料集
 
 ## step3
 將yolov7_light內所有東西放到yolov7資料夾裡面
