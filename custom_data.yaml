@@ -1,0 +1,9 @@
+train: .\light_dataset\train
+val: .\light_dataset\validation
+
+
+# number of classes
+nc: 4
+
+# class names
+names: ['None light','Red light','Amber light','Green light']
