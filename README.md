@@ -7,8 +7,9 @@
 * 下載資料集(需要暨大學生信箱)
 
 ## step3
-* 將yolov7_light內所有東西放到yolov7資料夾裡面
-* 先去pytorch官網下載pytorch GPU
+* 將所有檔案放到yolov7資料夾裡面
+* 先去Pytorch官網下載Pytorch GPU
+* https://pytorch.org/get-started/previous-versions/
 * 安裝環境
 ```py
 pip install -r requirments.txt
