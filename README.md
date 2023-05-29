@@ -5,9 +5,12 @@
 https://github.com/WongKinYiu/yolov7
 
 ## step2
+下載資料籍
+
+## step3
 將yolov7_light內所有東西放到yolov7資料夾裡面
 先下載pytorch GPU
-再下載yolov7_light資料夾中的requirements
+安裝環境
 
 pip install -r requirments.txt
 
