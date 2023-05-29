@@ -5,6 +5,7 @@
 
 ## step2
 * 下載資料集(需要暨大學生信箱)
+* https://drive.google.com/drive/folders/1st9OR1qZCne9j87P9bAKgcHPnhaHPUGh?usp=share_link
 
 ## step3
 * 將所有檔案放到yolov7資料夾裡面
